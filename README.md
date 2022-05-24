@@ -18,3 +18,7 @@ Planning & Documentation: Trello, Google Docs
 Frontend: HTML / CSS
 
 Backend: Node.js
+
+Api's Used: 
+* https://www.weatherapi.com/docs/
+* https://developer.trimblemaps.com/maps-sdk/guide/getting-started
